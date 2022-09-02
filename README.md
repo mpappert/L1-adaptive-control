@@ -20,6 +20,10 @@ Recently it has also been used to **robustify a reinforcement learning agent** t
 - https://arxiv.org/pdf/2112.01953.pdf
 - https://www.youtube.com/watch?v=xZBcsNMYK3Y
 
+Further work of my Master thesis supervisor and my professor:
+- https://www.db-thueringen.de/servlets/MCRFileNodeServlet/dbt_derivate_00041143/ilm1-2017000665.pdf
+- https://www.imms.de/referenzen/publikationen/d/robust-tracking-control-with-l1-adaptive-augmentation-for-a-long-stroke-vertical-nanopositioning-system-part-i-4666.html
+
 Another very fast adapting controller is the **Simple Adaptive Controller (SAC)** by Itzhak Barkana. A very good paper about it can be found here:
 - https://www.researchgate.net/publication/269401168_Adaptive_Control_But_is_so_Simple_A_Tribute_to_the_Efficiency_Simplicity_and_Beauty_of_Adaptive_Control
 
@@ -27,7 +31,8 @@ Now, here I want to present my master thesis and some Matlab/Simulink files for 
 I hope, that this helps you to design some awesome adaptive controller!
 
 
-### Robust L1-adaptive control of a planar nanopositioning system under model uncertainties and disturbances (Master Thesis)
+## Robust L1-adaptive control of a planar nanopositioning system under model uncertainties and disturbances (Master Thesis)
+### Abstract
 This master thesis deals with the investigation, selection and design of suitable adaptive control methods
 for a planar nanopositioning system. For this purpose, controllers of the L1-adaptive control theory, a
 novel theory for adaptive control, are considered and compared with conventional adaptive controllers,
