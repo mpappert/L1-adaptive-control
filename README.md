@@ -1,4 +1,4 @@
-# L1-adaptive-control
+# L1 adaptive control
 According to the state of the art, the **L1-adaptive controllers are among the fastest adapting controllers**. 
 These high adaptation rates allow a **prediction of the transient performance** of the closed loop system as well as the **performance in steady state**. 
 In addition **robustness limits** can be determined with respect to the **controlled system parameters and dead-times**. 
